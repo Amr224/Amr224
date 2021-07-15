@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amr
 - 👀 I’m currently interested in HTML, CSS, SASS, Javascript, ReactJS , web development related.
-- 🌱 I’m currently improving my CSS, JavaScript skills
+- 🌱 I’m currently improving my CSS and JavaScript skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
